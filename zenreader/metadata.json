@@ -1,0 +1,5 @@
+{
+  "name": "ZenReader",
+  "description": "A high-performance PDF reader with Gemini AI summarization and full annotation capabilities.",
+  "requestFramePermissions": []
+}
